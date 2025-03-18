@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
+
 flask
->>>>>>> 7f4e3e8 ( deuxième commit)
 numpy==1.20
 scipy
 pandas
